@@ -12,7 +12,7 @@
     "emoji-datasource-google": "^4.1.0",
     "emoji-datasource-messenger": "^4.1.0",
     "emoji-datasource-twitter": "^4.1.0",
-    "emoji-mart-native": "^v0.4.2-beta",
+    "emoji-mart-native": "^0.4.7-beta",
     "react": "^16.8.6",
     "react-native": "^0.60.5"
   },
