@@ -13,8 +13,8 @@
     "emoji-datasource-messenger": "^4.1.0",
     "emoji-datasource-twitter": "^4.1.0",
     "emoji-mart-native": "^v0.4.2-beta",
-    "react": "16.3.1",
-    "react-native": "0.55.3"
+    "react": "^16.8.6",
+    "react-native": "^0.60.5"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
