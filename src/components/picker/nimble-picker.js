@@ -190,7 +190,7 @@ export default class NimblePicker extends React.PureComponent {
     this.handleSkinChange = this.handleSkinChange.bind(this)
   }
 
-  componentWillReceiveProps(props) {
+  UNSAFE_componentWillReceiveProps(props) {
     if (props.skin) {
       this.setState({skin: props.skin})
     } else if (props.defaultSkin && !skinStore.get()) {
